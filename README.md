@@ -1,8 +1,8 @@
-# 🏠 HostelHub – Modern Hostel & Mess Management Platform
+# 🏠 HostelHub – Modern Hostel Management Platform
 
 🌐 **Live Website:** [hostelhub-management-system.vercel.app](https://hostelhub-management-system.vercel.app)
 
-HostelHub is a smart, web-based platform that simplifies and automates the daily operations of hostels and mess facilities. Designed with students, wardens, and administrators in mind, HostelHub handles everything from AI-powered room allocation to complaint tracking, visitor logging, and more — all in one place.
+HostelHub is a smart, web-based platform that simplifies and automates the daily operations of hostel. Designed with students, wardens, and administrators in mind, HostelHub handles everything from smart room allocation to complaint tracking, visitor logging, and more — all in one place.
 
 ---
 
@@ -13,7 +13,7 @@ Managing a hostel can be chaotic — paperwork, manual room assignments, lost co
 ✅ Centralized, user-friendly dashboards  
 ✅ Automation using intelligent algorithms  
 ✅ Real-time complaint and visitor tracking  
-✅ Feedback loops for mess improvements  
+✅ Feedback loops for hostel improvements  
 ✅ Instant announcements via a digital notice board
 
 ---
@@ -23,14 +23,14 @@ Managing a hostel can be chaotic — paperwork, manual room assignments, lost co
 ### 🔐 Authentication
 Secure login system for students, wardens, and admins with role-based access.
 
-### 🛏 AI Room Allocation
+### 🛏 Smart Room Allocation
 Automatically assigns rooms using predefined criteria, improving efficiency and fairness.
 
 ### 🛠 Complaint Management
 Students can submit issues; admins can view, assign, and resolve them with live tracking.
 
-### 🧑‍🍳 Mess Feedback System
-Students rate meals and provide suggestions. Admins get valuable insights via dashboard.
+### 🧑‍🍳 Hostel Feedback System
+Students rate hostel facilities and provide suggestions. Admins get valuable insights via dashboard.
 
 ### 📢 Digital Notice Board
 Admins post announcements in real-time. Students can view notices from anywhere.
@@ -48,14 +48,14 @@ Track and record visitor entries securely for accountability and safety.
 
 ## 🛠 Built With
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, EJS
+- **Frontend:** XML, TAILWIND CSS, JavaScript, Bootstrap
 - **Backend:** Node.js, typescript
-- **Database:** MongoDB (Mongoose)
+- **Database:** Local storage using JavaScript
 - **Hosting:** Vercel
 
 ---
 
-## 📂 How to Use (For End Users)
+## 📂 How to Use (For Users)
 
 ### 👨‍🎓 Students
 - Sign up and log in
@@ -73,25 +73,6 @@ Track and record visitor entries securely for accountability and safety.
 
 ---
 
-## 💡 Future Enhancements
-
-- 📲 Mobile App Support (PWA)
-- 🔔 Push/Email Notifications
-- 📊 Admin Analytics Dashboard
-- 👁️‍🗨️ Biometric Integration
-- 📆 Mess Timetable & Attendance Tracker
-
----
-
-## 🙌 Credits
-
-Developed with dedication by TEAM HELLO WORLD
-
-Special thanks to open-source libraries and the student community for inspiration.
-
----
-
-
 ## WORK FLOW
 
 User visits the HostelHub homepage.
@@ -107,3 +88,24 @@ Redirected to respective dashboard based on role.
 ---
 
 > Built to modernize hostel life. Say goodbye to paperwork and hello to HostelHub!
+
+## 💡 Future Enhancements
+
+- 📲 Mobile App Support (PWA)
+- 🔔 Push/Email Notifications
+- 📊 Admin Analytics Dashboard
+- 👁️‍🗨️ Biometric Integration
+- 📆 Mess Timetable & Attendance Tracker
+
+---
+
+## 🙌 Credits
+
+Developed with dedication by TEAM HELLO WORLD
+
+Special thanks to open-source libraries and our student group for inspiration.
+
+---
+
+
+
